@@ -12,5 +12,6 @@
         "psr-4": {
             "Carolsail\\Wantupay\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
