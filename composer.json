@@ -1,0 +1,16 @@
+{
+    "name": "carolsail/wantupay",
+    "description": "基于wantupay的支付封装",
+    "authors": [
+        {
+            "name": "carolsail",
+            "email": "carolsail2013@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carolsail\\Wantupay\\": "src/"
+        }
+    }
+}
