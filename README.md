@@ -18,7 +18,7 @@
 
 ## 安装
 ```shell
-composer require carolsail/wantupay
+composer require carolsail/wantupay v1.0.0
 ```
 
 ## 使用说明
